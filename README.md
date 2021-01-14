@@ -1,5 +1,12 @@
-# Hello-World
-My first repository on GitHub
-*Langara College*
-**Data Analytics**
-# CPSM
+## Project Title
+
+Simple overview of the project.
+
+# Description
+
+An in-depth paragraph about your project and overview of use.
+
+# Getting started
+*Dependencies*
+- Describe any prerequisites
+- ex. Windows
