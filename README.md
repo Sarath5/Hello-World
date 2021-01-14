@@ -7,6 +7,11 @@ Simple overview of the project.
 An in-depth paragraph about your project and overview of use.
 
 ## Getting started
-**Dependencies**
+### Dependencies
 - Describe any prerequisites
 - ex. Windows
+
+### Installing
+- How/where to download.
+- Any modification needed
+
