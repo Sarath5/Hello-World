@@ -19,4 +19,5 @@ An in-depth paragraph about your project and overview of use.
 This **project** is licensed under the [NAME HERE]License- see the LICENSE.md file for details.
 
 ## Thank you
-[Langara] (https://langara.ca/)
+[Langara] 
+[Langara]: <https://langara.ca>
